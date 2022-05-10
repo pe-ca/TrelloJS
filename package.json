@@ -1,0 +1,19 @@
+{
+  "name": "trellojs",
+  "version": "1.0.0",
+  "description": "Practica 7 semana 4 Launch X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pe-ca/TrelloJS.git"
+  },
+  "author": "RicardoPerales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pe-ca/TrelloJS/issues"
+  },
+  "homepage": "https://github.com/pe-ca/TrelloJS#readme"
+}
